@@ -1,4 +1,4 @@
-# C++ Web Server
+# C++ Web Server with Drogon
 
 ## Running the server
 ### Install dependencies:
